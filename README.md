@@ -1,16 +1,16 @@
-# project_app
+# 🛒 Flutter E-Commerce Project (Ürün Sipariş Uygulaması)
 
-A new Flutter project.
+Bu proje, Flutter kullanılarak geliştirilmiş, ürün listeleme, favorilere ekleme ve sepet yönetimi özelliklerine sahip bir e-ticaret uygulamasıdır.
 
-## Getting Started
+## ✨ Özellikler
+* **Ürün Listeleme:** API üzerinden çekilen ürünlerin ana sayfada sergilenmesi.
+* **Favori Sistemi:** Beğenilen ürünleri favorilere ekleme ve favori sayfasından yönetme.
+* **Sepet Yönetimi:** Ürünleri sepete ekleme ve sepetten çıkarma.
+* **Detay Sayfası:** Ürünlerin açıklamalarını ve fiyatlarını inceleme.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Kullanılan Teknolojiler & Paketler
+* **Framework:** [Flutter](https://flutter.dev/)
+* **State Management:** StatefulWidget & Set State (Local State Management)
+* **Veri Kaynağı:** REST API (ApiService)
+* **Yerel Depolama:** SharedPreferences (LocalStorageService)
+* **UI:** Custom Components, Hero Animation
